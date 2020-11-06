@@ -13,7 +13,7 @@ namespace lab10._1_2
             Console.WriteLine("Введите целое число В:");
             B = int.Parse(Console.ReadLine());
             Console.WriteLine((A > 2) & (B <= 3));
-            int C; 
+            int C;
             Console.WriteLine("Задание10.2");
             Console.WriteLine("Введите целое число А:");
             A = int.Parse(Console.ReadLine());
